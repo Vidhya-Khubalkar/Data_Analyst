@@ -6,6 +6,6 @@ marks = [90,85,99,80]
 colors = ["Gold", "Lightblue", "Lightcoral", "Limegreen"]
 explode = [0, 0, 0.1 ,0]
 
-plt.pie(marks, labels = subject, startangle = 90, autopct = '%1.1f%%', colors = colors, explode = explode, shadow = True)
+plt.pie(marks, labels = subject, startangle = 90, autopct = '%1.1f%%', colors = colors, explode = explode, shadow = True, loc = "upper left", wedgeprops = {"linewidth": 0.5, "edgecolor": "Black"})
 plt.title("Marks in Subjects", fontweight = "bold", size = 15)
 plt.show()
