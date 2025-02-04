@@ -1,0 +1,27 @@
+During the first five days of my internship training, I gained knowledge on various fundamental and technical concepts essential for data analytics. Below is a summary of what I learned:
+
+Introduction to Data Analytics
+
+Overview of data analytics and its importance in decision-making.
+Different types of data analytics: Descriptive, Diagnostic, Predictive, and Prescriptive.
+Data Visualization
+
+Understanding the role of data visualization in analytics.
+Introduction to various visualization tools and techniques.
+Git and Linux Commands
+
+Basics of version control using Git, including initializing a repository, committing changes, and pushing to GitHub.
+Essential Linux commands for file navigation, manipulation, and system control.
+Matplotlib for Data Visualization
+
+Introduction to Matplotlib and its significance in Python for data visualization.
+Plotting different types of charts:
+Bar Chart: Used to compare categorical data.
+Pie Chart: Used for visualizing proportions.
+Line Chart: Used to show trends over time.
+Creating a Virtual Environment (venv)
+
+Understanding the need for virtual environments in Python.
+Steps to create and activate a virtual environment:
+python -m venv myenv (Creating a virtual environment)
+source myenv/bin/activate (Linux/Mac) or myenv\Scripts\activate (Windows)
